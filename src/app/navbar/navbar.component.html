@@ -1,0 +1,23 @@
+<div class="topnav " [ngClass]="isDarkTheme ? 'navbar-dark' : 'navbar-light'">
+  <p class="navTitle">Angular Dynamic Theme</p>
+  <div (click)="toggleTheme()" class="toggleThemeButton">
+    <div class="row">
+      <!-- Conditionally loading icon -->
+      <img
+        *ngIf="isDarkTheme"
+        src="assets/images/lamp-dark.svg"
+        alt="dark-mode-toggle"
+        width="30"
+        height="30"
+      />
+      <img
+        *ngIf="!isDarkTheme"
+        src="assets/images/lamp-light.svg"
+        alt="dark-mode-toggle"
+        width="30"
+        height="30"
+      />
+      <span class="mt-1 ml-2">Switch Theme</span>
+    </div>
+  </div>
+</div>

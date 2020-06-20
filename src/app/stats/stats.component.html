@@ -1,0 +1,63 @@
+<div
+  [ngClass]="isDarkTheme ? 'darkTheme' : 'lightTheme'"
+  class="statsTitleContainer"
+>
+  <div>
+    <p class="statsTitle">
+      <b>Weekly stats</b>
+    </p>
+  </div>
+  <div class="row">
+    <div class="col-md-3">
+      <app-card
+        [header]="'Conversion'"
+        [title]="'573'"
+        [subtitle]="'+12% of target'"
+      ></app-card>
+    </div>
+    <div class="col-md-6">
+      <app-card
+        [header]="'Marketing'"
+        [title]="'432.48 M'"
+        [subtitle]="'+22% of target'"
+      ></app-card>
+    </div>
+    <div class="col-md-3">
+      <app-card
+        [header]="'Sales'"
+        [title]="'498.32 M'"
+        [subtitle]="'+45% of target'"
+      ></app-card>
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-md-3">
+      <app-card
+        [header]="'Avg. session'"
+        [title]="'4:52 H'"
+        [subtitle]="'+56.6% of target'"
+      ></app-card>
+    </div>
+    <div class="col-md-3">
+      <app-card
+        [header]="'Users'"
+        [title]="'50.4 M'"
+        [subtitle]="'+48.3% of target'"
+      ></app-card>
+    </div>
+    <div class="col-md-3">
+      <app-card
+        [header]="'Bounce rate'"
+        [title]="'16%'"
+        [subtitle]="'+5% of target'"
+      ></app-card>
+    </div>
+    <div class="col-md-3">
+      <app-card
+        [header]="'Sessions'"
+        [title]="'798 547'"
+        [subtitle]="'+5% of target'"
+      ></app-card>
+    </div>
+  </div>
+</div>

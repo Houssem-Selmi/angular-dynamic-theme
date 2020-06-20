@@ -1,0 +1,10 @@
+<div class="card" [ngClass]="isDarkTheme ? 'card-bg-dark' : 'card-bg-light'">
+  <div>
+    <p class="header">{{ header }}</p>
+    <p class="title" [ngClass]="isDarkTheme ? 'title-dark' : 'title-light'">
+      <strong>{{ title }}</strong>
+    </p>
+
+    <p class="subtitle">{{ subtitle }}</p>
+  </div>
+</div>
