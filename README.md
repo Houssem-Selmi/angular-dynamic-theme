@@ -8,9 +8,7 @@
 
 This project contains the source code of an angular project showing how to achieve a dynamic CSS theme changer using rxjs Observable.
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Hp9mp7Bvz7WYTohMxVl3SRq-IUYGDdr2">
-</p>
+![enter image description here](https://firebasestorage.googleapis.com/v0/b/booki-26bbf.appspot.com/o/theme2.gif?alt=media&token=66b224c8-6ace-4543-b52c-6868da2820d3)
 
 # Getting Started ✔️
 
