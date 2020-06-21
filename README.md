@@ -24,9 +24,8 @@ This project contains the source code of an angular project showing how to achie
 
     git clone https://github.com/Houssem-Selmi/angular-dynamic-theme.git
 
-### Front-End ( Angular )
 
-Access the Front-End folder
+Access the project folder
 
     cd angular-dynamic-theme-master
 
