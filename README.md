@@ -1,8 +1,6 @@
 # Angular Dynamic Theme 🎨
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1q7Z0Wt2E3pyJeS28XZc9pg5CkJhM6_J4">
-</p>
+![enter image description here](https://firebasestorage.googleapis.com/v0/b/booki-26bbf.appspot.com/o/bannerAngularTheme.png?alt=media&token=24938368-927c-43a3-a8ac-24fc9b05cbf2)
 
 # About the project
 
