@@ -16,12 +16,13 @@ This project contains the source code of an angular project showing how to achie
 
 ## Prerequisites
 
-- #### Angular
-      	* A stable version of node installed on your machine
-      	* Npm
-      		* `npm install npm@latest -g`
-      	* Angular CLI
-      		* `npm install -g @angular/cli`
+## Prerequisites
+
+- A stable version of node installed on your machine
+- Npm
+  `npm install npm@latest -g`
+- Angular CLI
+  `npm install -g @angular/cli`
 
 ## Installation
 
