@@ -1,27 +1,57 @@
-# AngularDynamicTheme
+# Angular dynamic theme changer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+![enter image description here](https://firebasestorage.googleapis.com/v0/b/booki-26bbf.appspot.com/o/bannerAngularTheme.png?alt=media&token=24938368-927c-43a3-a8ac-24fc9b05cbf2)
 
-## Development server
+# About the project 💡
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This project contains the source code of an angular project showing how to achieve a dynamic CSS theme changer using rxjs Observable.
 
-## Code scaffolding
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Hp9mp7Bvz7WYTohMxVl3SRq-IUYGDdr2">
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Getting Started ✔️
 
-## Build
+## Prerequisites
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- #### Angular
+      	* A stable version of node installed on your machine
+      	* Npm
+      		* `npm install npm@latest -g`
+      	* Angular CLI
+      		* `npm install -g @angular/cli`
 
-## Running unit tests
+## Installation
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+**Clone the repo** :blush:
 
-## Running end-to-end tests
+    git clone https://github.com/Houssem-Selmi/angular-dynamic-theme.git
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+### Front-End ( Angular )
 
-## Further help
+Access the Front-End folder
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+    cd angular-dynamic-theme-master
+
+Install dependencies
+
+    npm install
+
+Start the angular project
+
+    ng serve
+
+### Congrats 👏 🎉
+
+Now, everything is set up correctly and you can start exploring the project.
+
+## Author :pencil2:
+
+👨‍💻 **Houssem Selmi**
+
+- [https://www.linkedin.com/in/hselmi/](https://www.linkedin.com/in/hselmi/)
+- [https://github.com/Houssem-Selmi](https://github.com/Houssem-Selmi)
+
+## License
+
+Code released under the [ MIT License](https://github.com/Houssem-Selmi/booki/blob/master/LICENSE.txt).
