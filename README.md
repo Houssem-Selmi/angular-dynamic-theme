@@ -16,8 +16,6 @@ This project contains the source code of an angular project showing how to achie
 
 ## Prerequisites
 
-## Prerequisites
-
 - A stable version of node installed on your machine
 - Npm
   `npm install npm@latest -g`
