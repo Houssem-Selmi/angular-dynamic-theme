@@ -36,6 +36,14 @@ Start the angular project
 
     ng serve
 
+### Support the post 💪 (optional) 
+If you find this project useful, please support it for free by giving it a star ⭐. 
+Alternatively, here's another option to support the project: 
+
+<a href="https://www.buymeacoffee.com/hselmi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hselmi&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+
+
 ### Congrats 👏 🎉
 
 Now, everything is set up correctly and you can start exploring the project.
